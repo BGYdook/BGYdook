@@ -13,4 +13,4 @@
 
 </div>
 
-![头像](https://github.com/BGYdook/BGYdook/blob/main/image/2.webp)
+![头像](https://github.com/BGYdook/BGYdook/blob/main/image/1.jpg)
