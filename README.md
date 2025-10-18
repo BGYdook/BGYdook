@@ -1,11 +1,10 @@
-<div id="title" align=center>
+<div id="title" align=center> 
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nulijiazaizhong&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BGYdook&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![博客](https://img.shields.io/badge/blog-GoodNiight_An-green)](https://blog.goodnightan.com)
-[![bilibili](https://img.shields.io/badge/video-bilibili-red)](https://space.bilibili.com/525984002)
+[![bilibili](https://img.shields.io/badge/video-bilibili-red)](https://space.bilibili.com/3493113874090879)
 
 ![modern cpp](https://img.shields.io/badge/code-copy-blue)
 ![](https://img.shields.io/badge/讨厌-Gaming-yellow) 
@@ -14,4 +13,4 @@
 
 </div>
 
-![头像](https://github.com/nulijiazaizhong/nulijiazaizhong/blob/main/image/2.webp)
+![头像](https://github.com/BGYdook/BGYdook/blob/main/image/touxiang.jpg)
