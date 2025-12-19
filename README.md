@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-## 欢迎来到我的github
+## **Welcome to my GitHub homepage**
 
 ![GitHub账户最常用语言](https://github-status-vercel.goodnightan.com/api/top-langs/?username=BGYdook&amp;layout=compact&amp;theme=tokyonight)
 
